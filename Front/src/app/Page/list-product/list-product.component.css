@@ -26,3 +26,7 @@ img{
 a {
   text-decoration: none;
 }
+input{
+  border: 2px solid #d56e00;
+  border-radius: 5px;
+}

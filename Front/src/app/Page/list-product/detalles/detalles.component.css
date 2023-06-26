@@ -1,0 +1,11 @@
+.allCard{
+    background-color: #c86c0ac0;
+    height: auto;    
+    color: white;
+}
+.Vh{
+    height: 90vh;
+}
+.card-text{
+    font-size: 15px;
+}

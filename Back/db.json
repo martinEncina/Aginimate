@@ -1,0 +1,744 @@
+{
+  "producto": [
+    {
+      "title": "Chaqueta de algodón",
+      "price": "23.99",
+      "description": "Grandes chaquetas de abrigo para primavera/otoño/invierno, adecuadas para muchas ocasiones, como trabajo, senderismo, camping, montaña, ciclismo, viajes u otras actividades al aire libre.",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/hombre-sombrero-negro-abrigo-abrigo-piel_8353-1195.jpg?w=360&t=st=1687360655~exp=1687361255~hmac=f63d6af6355417718d28c21b38cfff24dec85e70df7fa9fb2ad3a801fa85698b",
+      "id": 3
+    },
+    {
+      "title": "Camiseta ajustada",
+      "price": 10.99,
+      "description": "El color podría ser ligeramente diferente en la pantalla y en la práctica. / Tenga en cuenta que las construcciones corporales varían según la persona, por lo tanto, la información detallada sobre el tamaño debe revisarse a continuación en la descripción del producto.",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/retrato-chico-guapo-joven-serios_186202-1497.jpg?w=360&t=st=1687360596~exp=1687361196~hmac=682f65c056172e2dee5e5c925db0df3e44d61a4812fd38f18744100534294bf0",
+      "id": 4
+    },
+    {
+      "title": "Pulser de oro",
+      "price": "35.99",
+      "description": "Delicada pulsera de perlas del oceano.",
+      "category": "Joyería mujer",
+      "image": "https://img.freepik.com/foto-gratis/joven-modelo-morena-demostrando-joyas_7502-7050.jpg?w=360&t=st=1687360499~exp=1687361099~hmac=edc87157e2334a3d8fe0f2a587ac86c9d0e941bad0937ba1d3103cb1f8a1c97a",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "title": "Anillo de oro",
+      "price": 100,
+      "description": "Satisfacción garantizada. Devuelva o cambie cualquier pedido dentro de los 30 días. Diseñado y vendido por Hafeez Center en los Estados Unidos. Satisfacción garantizada. Devuelva o cambie cualquier pedido dentro de los 30 días.",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/anillo-oro-caro-exhibido-rocas_23-2150347043.jpg?w=360&t=st=1687360334~exp=1687360934~hmac=74a7d08e70ed09f969bfbfdf4e475f28fa58a34fca023c55e1f220b10c5e96e9",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "Anillo de oro",
+      "price": 70,
+      "description": "Anillo de promesa de diamante solitario de compromiso de boda creado clásico para ella. Regalos para consentir más a tu amor por Compromiso, Boda, Aniversario, San Valentín...",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/vista-lujoso-anillo-oro_23-2150329701.jpg?w=360&t=st=1687360300~exp=1687360900~hmac=bd1f23bdde992f352d2eda579a16fb3c37e40f0669396ec2bee0b7c266475508",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Pendientes oro rosa",
+      "price": 10.99,
+      "description": "Pendientes tipo túnel con doble acampanado chapados en oro rosa. Hecho de acero inoxidable 316L",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/arreglo-aretes-dorados-esteticos-flat-lay_23-2149846594.jpg?w=360&t=st=1687360263~exp=1687360863~hmac=fdad592db3a4d1b4fdc3affc3cdee95addde59efe8787f7bb7b22be6f35b51b2",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "Hojotas de playa",
+      "price": 15,
+      "description": "Chanclas de playa. Varios colores y motivos",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/chanclas-diferentes-colores-playa_23-2148164614.jpg?w=360&t=st=1687360181~exp=1687360781~hmac=9030a3f4846d7519971b96c1827c5a0ed3c0e340365cfbe7ced04fb850026702",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": "Sombrero de playa",
+      "price": 10,
+      "description": "Sombrero de paja clasico para la playa",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/hombre-laptop-muelle-playa_23-2148578292.jpg?w=360&t=st=1687360018~exp=1687360618~hmac=5f9144178653f5905b6065d2097553c42752317d5e34691a45150477773de89e",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 11,
+      "title": "Sombrero de playa",
+      "price": 12,
+      "description": "Sombrero de paja idea para cubrirse del sol y estas a la moda.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/mujer-romantica-playa-parte-superior-falda-punto-sombrero-paja-canasta-pan-eco-vida_343596-1334.jpg?w=360&t=st=1687359940~exp=1687360540~hmac=c2d21780d4f874d6be3e7890d442e30f19593cb8b764fcf7bdf22352f119ec01",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "Bikini",
+      "price": 20,
+      "description": "Bikini clasica negra",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/joven-mujer-arabe-hermoso-cuerpo-traje-bano-sonriendo-playa-tropical_1139-1566.jpg?w=360&t=st=1687359851~exp=1687360451~hmac=831d95300dc4b899d042fc9dd3ef98022c78c26ca82b27e1db2d6bc0c4e32bda",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "Bermuda",
+      "price": 25,
+      "description": "Bermuda ligera y fresca",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/retrato-cuerpo-entero-hombre-feliz-ropa-verano_171337-19039.jpg?w=360&t=st=1687359774~exp=1687360374~hmac=a87c4cc4ea05e66122f7fd32df705a71fdf7dc5e62aa90ea98d6028cfa086572",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": "Gorra",
+      "price": 15,
+      "description": "Gorra casual, liviana ideal para el verano",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/hombre-tiro-medio-posando-gorra-camionero_23-2149410271.jpg?w=360&t=st=1687359717~exp=1687360317~hmac=18a04ad34432b5f245a998bf31d12d4bc875ff2ca1e0bedde7ad1c414ec91a06",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 16,
+      "title": "Chaqueta motera",
+      "price": 29.95,
+      "description": "100 % POLIURETANO (cáscara) 100 % POLIÉSTER (forro) 75 % POLIÉSTER 25 % ALGODÓN (SUETER), material de piel sintética para estilo y comodidad / 2 bolsillos delanteros, chaqueta de piel sintética estilo denim con capucha 2 por uno, detalle de botón en cintura / Detalle de costuras en los costados, LAVAR A MANO SOLAMENTE / NO USAR LEJÍA / SECAR AL LÍNEA / NO PLANCHAR",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/retrato-mujer-rubia-uniforme-motocicleta-aislado-sobre-fondo-gris-estudio_613910-8134.jpg?w=360&t=st=1687359592~exp=1687360192~hmac=001728a6b3dd2e4c44991d46bbe2410fc5643e03387b2f907febe7c7d4fd49b4",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": "Chubasquero",
+      "price": 39.99,
+      "description": "Chubasquero con cierre frontal de botón y cremallera, totalmente forrado a rayas y El chubasquero tiene 2 bolsillos laterales son de buen tamaño para guardar todo tipo de cosas, cubre las caderas y la capucha es amplia pero no exagera. Los cordones ajustables le dan un estilo real.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/modelo-mujer-activa-atractiva-posando-pared-rosada-colorida-chaqueta-invierno-color-amarillo-brillante-tendencia-moda-abrigo-calido_285396-7309.jpg?w=360&t=st=1687359561~exp=1687360161~hmac=becffb7a45469d981d211a20afb0afeea51edc8de0864eaff9cdea2ddd923dfd",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": "Camiseta",
+      "price": 9.85,
+      "description": "95 % RAYÓN, 5 % ELASTANO, fabricado en EE. UU. o importado, no usar lejía, tela liviana con gran elasticidad para mayor comodidad, ribeteado en mangas y escote / doble costura en el dobladillo inferior",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/ropa-femenina-femenina-muy-casual_329181-9895.jpg?w=360&t=st=1687359375~exp=1687359975~hmac=c57ad72be67cabaf0b9f1ece2bc7c52a9a4de91d741adb964a725d63ff8d570f",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 19,
+      "title": "Camiseta",
+      "price": 7.95,
+      "description": "100 % poliéster, lavar a máquina, 100 % interlock de poliéster catiónico, lavar a máquina y preencogido para un ajuste perfecto, ligero, espacioso y muy transpirable con tela que absorbe la humedad que ayuda a mantener la humedad alejada, tela suave y ligera con cómodo cuello en V y un ajuste más delgado, ofrece una silueta elegante y más femenina y mayor comodidad",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/mujer-pelirroja-escuchando-musica-auriculares-sonriendo_176420-8041.jpg?w=360&t=st=1687359264~exp=1687359864~hmac=207acbf18671af9e876f5c8a7e577497f7faa970af4680689b4b2dd71701ee0f",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 20,
+      "title": "Camiseta casual",
+      "price": 12.99,
+      "description": "95 % algodón, 5 % elastano, características: informal, manga corta, estampado de letras, cuello en V, camisetas de moda, la tela es suave y tiene algo de elasticidad. Ocasión: informal/oficina/playa/escuela/hogar/calle. Temporada: primavera, verano, otoño, invierno.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/retrato-mujer-joven-estilo-posando_23-2148665455.jpg?w=360&t=st=1687359239~exp=1687359839~hmac=2cfad6e59951827071642a7ef721605fa738716aefd094845da2b825d97f154a",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 21,
+      "title": "Camiseta manga corta",
+      "price": 14.99,
+      "description": "Camiseta básica de manga corta para un look casual y cómodo.",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/primer-plano-retrato-hombre-maqueta-camisa_23-2149260959.jpg?w=360&t=st=1687359204~exp=1687359804~hmac=847adb2bc46b34159c2ec26ca4bacacd5ce09b9285c53f9c9f6d7b7d674b9bcb",
+      "rating": {
+        "rate": 4.1,
+        "count": 60
+      }
+    },
+    {
+      "id": 22,
+      "title": "Traje de negocios",
+      "price": 249.99,
+      "description": "Traje de negocios de alta calidad para lucir elegante en reuniones importantes.",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/hombre-negocios-escaleras_23-2147996573.jpg?w=360&t=st=1687359159~exp=1687359759~hmac=0bf9584cd7b580bd270f98f20c547bf49b59b873be9bc82731fc4fc36ab7b124",
+      "rating": {
+        "rate": 4.9,
+        "count": 200
+      }
+    },
+    {
+      "id": 23,
+      "title": "Calcetines deportivos",
+      "price": 9.99,
+      "description": "Calcetines deportivos transpirables y cómodos para actividades físicas.",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/vista-lateral-sonriente-hombre-telefono-inteligente_23-2149557813.jpg?w=360&t=st=1687359110~exp=1687359710~hmac=f3f2591f38a7aab7db3a9e1aa2d0e53583fe0fcf7263d18389e40d7a7700d95b",
+      "rating": {
+        "rate": 4.5,
+        "count": 80
+      }
+    },
+    {
+      "id": 24,
+      "title": "Bermudas de playa",
+      "price": 29.95,
+      "description": "Bermudas de playa de secado rápido y diseño tropical para disfrutar del sol y la arena.",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/hombre-ropa-playa-toalla_23-2147639731.jpg?w=360&t=st=1687359062~exp=1687359662~hmac=85baab6585a6fda3dac7c477b25379fb971e4d74eff73c85ced11ef5bc6dcd0b",
+      "rating": {
+        "rate": 4.3,
+        "count": 45
+      }
+    },
+    {
+      "id": 25,
+      "title": "Sudadera con capucha",
+      "price": 34.99,
+      "description": "Sudadera con capucha y bolsillo canguro, perfecta para mantenerse abrigado en climas fríos.",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/estirando_23-2148023820.jpg?w=360&t=st=1687359007~exp=1687359607~hmac=15553a33031b2c2f55d70925c4791c29dfbb6ef2996530abcabe25ad096ed884",
+      "rating": {
+        "rate": 4.7,
+        "count": 110
+      }
+    },
+    {
+      "id": 26,
+      "title": "Vestido floral",
+      "price": 49.99,
+      "description": "Vestido floral elegante y femenino para lucir en ocasiones especiales.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/mujer-llevando-sundress_23-2150388811.jpg?w=360&t=st=1687358875~exp=1687359475~hmac=a520c64649d4b62f329e1ca6c52fa521943c124ba81d9e18b58052256939b9e7",
+      "rating": {
+        "rate": 4.8,
+        "count": 90
+      }
+    },
+    {
+      "id": 27,
+      "title": "Blusa delicada",
+      "price": 29.95,
+      "description": "Blusa delicada y sofisticada para realzar cualquier conjunto.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/hermosa-joven-rubia-pie-pared-cubierta-azulejos-tradicionales-portugueses_231208-6212.jpg?w=360&t=st=1687358717~exp=1687359317~hmac=b06461270b98e9bc92d7cb091dd1c8ebc4340cc150365e84cb8c0e291c4d9d17",
+      "rating": {
+        "rate": 4.6,
+        "count": 75
+      }
+    },
+    {
+      "id": 28,
+      "title": "Jeans ajustados",
+      "price": 59.99,
+      "description": "Jeans ajustados de alta calidad para un look moderno y cómodo.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/mujer-modelo-sonriente-jeans-moda-posando_158538-9927.jpg?w=360&t=st=1687358612~exp=1687359212~hmac=ffbe8429b0f449807a2ac32ecbad85dcb7c95a395b389850272054c618dd8634",
+      "rating": {
+        "rate": 4.5,
+        "count": 110
+      }
+    },
+    {
+      "id": 29,
+      "title": "Chaqueta con tachas",
+      "price": 34.95,
+      "description": "Chaqueta vaquera con tachas para mujer, con bolsillo frontal,para un look moderno y cómodo. ",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/retrato-mujer-sonriente-estilo-atractivo-caminando-calles-ciudad-abrigo-rosa-tendencia-moda-primavera-sosteniendo-bolso_285396-2520.jpg?w=360&t=st=1687362093~exp=1687362693~hmac=e576b6a67705e30966c58724f3632251c3e0f54657bf147b485ba5c6061b6af8",
+      "rating": {
+        "rate": 4.2,
+        "count": 65
+      }
+    },
+    {
+      "id": 30,
+      "title": "Vestido de fiesta",
+      "price": 79.99,
+      "description": "Vestido de fiesta deslumbrante con detalles brillantes y diseño moderno.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/bella-mujer-vestido-noche-sentado-silla_285396-7788.jpg?w=360&t=st=1687358398~exp=1687358998~hmac=3906a2c453d9635ae253a1d4b843a44e7372d3ecfbfbd7cbac16012d046d436c",
+      "rating": {
+        "rate": 4.7,
+        "count": 150
+      }
+    },
+    {
+      "id": 31,
+      "title": "Pantalones de yoga",
+      "price": 34.99,
+      "description": "Pantalones de yoga cómodos y elásticos para una práctica de yoga sin restricciones.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/mujer-tiro-completo-haciendo-pino-fuera_23-2148717232.jpg?w=360&t=st=1687358340~exp=1687358940~hmac=59931d4f7e345577ca1c4bce1c2d46bd9c81ac67d6a516a6378cb6bf59318a77",
+      "rating": {
+        "rate": 4.4,
+        "count": 80
+      }
+    },
+    {
+      "id": 32,
+      "title": "Blusa elegante",
+      "price": 54.95,
+      "description": "Blusa suave y elegante para un look sofisticado en ocasiones formales.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/chica-joven-elegante-atractiva-traje-negocios-posando-pared-crema-concepto-ropa-elegante-sofisticacion_78826-3094.jpg?w=360&t=st=1687358265~exp=1687358865~hmac=0eb93a315e28c79cbae0b53753c48d1b2aeec97c7f645bef01caaa5fe3dc6d9e",
+      "rating": {
+        "rate": 4.6,
+        "count": 95
+      }
+    },
+    {
+      "id": 33,
+      "title": "Chaqueta de gabardina",
+      "price": 31.99,
+      "description": "Chaqueta de gabardina con estilo moderno y acabado de alta calidad.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/joven-modelo-morena-gafas-sol-transparentes-caminar-afuera-dia-otono_231208-2808.jpg?w=360&t=st=1687362180~exp=1687362780~hmac=cced7c5e8108489de24857fd73b0c8fcca8667f815ee564925052623f540fb01",
+      "rating": {
+        "rate": 4.8,
+        "count": 120
+      }
+    },
+    {
+      "id": 34,
+      "title": "Vestido de verano",
+      "price": 39.95,
+      "description": "Vestido ligero y fresco para disfrutar del verano con estilo y comodidad.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/retrato-elegante-mujer-sonriente-linda-feliz-elegante-vestido-verde-verano-bolsa-sombrero-paja-sobre-fondo-pared-piedra-blanca-cactus_343596-3626.jpg?w=360&t=st=1687358174~exp=1687358774~hmac=8e8013905862e901ecee84e0181178d90ce2d362d66f0d76b5293649f75f76cd",
+      "rating": {
+        "rate": 4.3,
+        "count": 55
+      }
+    },
+    {
+      "id": 35,
+      "title": "Suéter de punto",
+      "price": 14.99,
+      "description": "Suéter de punto suave y abrigado para los días fríos de invierno.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/mujer-joven-amable-sonrisa-pensativa-mirando-reojo-camara-cabeza-inclinada-lado-copie-espacio_231208-7455.jpg?w=360&t=st=1687361994~exp=1687362594~hmac=7c74d9616165ced57d1b486e24e7d49436828ffcc75a2756123995ac1d6ed031",
+      "rating": {
+        "rate": 4.5,
+        "count": 70
+      }
+    },
+    {
+      "id": 36,
+      "title": "Vestido floreado",
+      "price": 59.99,
+      "description": "Vestido de verano con estampado floral, perfecto para ocasiones casuales o salidas informales.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/divertido-elegante-sexy-sonriente-hermosa-joven-modelo-verano-brillante-hipster-tela-vestido-calle_158538-14437.jpg?w=360&t=st=1687358111~exp=1687358711~hmac=0e62ef7a639d1baba1f57a5ded4462ff50130ed98531382d271d250fbffdbb2a",
+      "rating": {
+        "rate": 4.2,
+        "count": 120
+      }
+    },
+    {
+      "id": 37,
+      "title": "Bolso de cuero",
+      "price": 25.99,
+      "description": "Bolso de cuero genuino con diseño elegante y amplio espacio interior para llevar tus pertenencias.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/botas_1303-4425.jpg?w=360&t=st=1687362286~exp=1687362886~hmac=634f9c0ba1b320e5856311983c213f071cdde9a74407405939c06427265e9861",
+      "rating": {
+        "rate": 4.8,
+        "count": 80
+      }
+    },
+    {
+      "id": 38,
+      "title": "Zapatos de tacón alto",
+      "price": 79.99,
+      "description": "Zapatos de tacón alto en color negro, ideales para ocasiones formales o fiestas elegantes.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/mujer-medias-celebrando-vispera-ano-nuevo_23-2148741449.jpg?w=740&t=st=1687358048~exp=1687358648~hmac=3e538f2f9da6a23e938e133538c073931e9013d2c176ebc65741ed8e590858d1",
+      "rating": {
+        "rate": 4.6,
+        "count": 150
+      }
+    },
+    {
+      "id": 39,
+      "title": "Blusa estampada",
+      "price": 49.99,
+      "description": "Blusa de seda con estampado floral, suave al tacto y perfecta para combinar con pantalones o faldas.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/mujer-hermosa-joven-mirando-camara-chica-moda-ropa-casual-camiseta-verano-hace-cara-pato-hembra-positiva-muestra-emociones-faciales-modelo-divertido-aislado-azul-gafas-sol_158538-15883.jpg?w=740&t=st=1687357854~exp=1687358454~hmac=8c19421c769bddac653dcb36de65a4b27ef1ee0cffee4ae874907a234d1e7cf1",
+      "rating": {
+        "rate": 4.3,
+        "count": 90
+      }
+    },
+    {
+      "id": 40,
+      "title": "Blusa de seda",
+      "price": 29.99,
+      "description": "Blusa de seda estampada, ideal para protegerte del sol y complementar tus outfits de verano.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/hermosa-belleza_291049-2091.jpg?w=360&t=st=1687357887~exp=1687358487~hmac=ee206987ecd339334b2b70bf1a7b51d746b24e331d5d34b22b24f312bc70ec18",
+      "rating": {
+        "rate": 4.7,
+        "count": 60
+      }
+    },
+    {
+      "id": 41,
+      "title": "Zapatillas deportivas",
+      "price": 79.99,
+      "description": "Zapatillas deportivas de alta gama, ideales para correr o practicar actividades físicas.",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/hombre-ropa-deportiva-corriendo-parque_1301-6420.jpg?w=360&t=st=1687362336~exp=1687362936~hmac=2570c552800f1ffce1cc314a17634fe6695118722c8d41fa45b40e6fc676f064",
+      "rating": {
+        "rate": 4.7,
+        "count": 90
+      }
+    },
+    {
+      "id": 42,
+      "title": "Chaqueta de cuero",
+      "price": 19.99,
+      "description": "Chaqueta de cuero genuino con estilo moderno, perfecta para lucir un look casual y elegante.",
+      "category": "Ropa de mujer",
+      "image": "https://img.freepik.com/foto-gratis/mujer-atractiva-cabello-rubio-posando-calle_1303-27527.jpg?w=360&t=st=1687362504~exp=1687363104~hmac=7e7dff482ba97438343ff67a49cd2213a07da308b58091aec0236b0d3d8313f2",
+      "rating": {
+        "rate": 4.6,
+        "count": 80
+      }
+    },
+    {
+      "id": 43,
+      "title": "Reloj de pulsera",
+      "price": 21.99,
+      "description": "Reloj de pulsera de acero inoxidable con cronógrafo y diseño moderno, ideal para complementar tus outfits.",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/hombre-negocios-mirar-suyo-reloj-primer-plano_53876-167338.jpg?w=740&t=st=1687362622~exp=1687363222~hmac=d2d0b07701f34b7a92a28f6129b905931aebad72a21514987c508b02505a6bf8",
+      "rating": {
+        "rate": 4.5,
+        "count": 70
+      }
+    },
+    {
+      "id": 44,
+      "title": "Camisa clásica",
+      "price": 39.99,
+      "description": "Camisa de vestir clásica en color blanco, perfecta para eventos formales o reuniones de negocios.",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/retrato-joven-apuesto_158595-242.jpg?size=626&ext=jpg&uid=R102230305&ga=GA1.2.366339644.1683722572&semt=ais",
+      "rating": {
+        "rate": 4.5,
+        "count": 100
+      }
+    },
+    {
+      "id": 45,
+      "title": "Chaqueta Gabardina",
+      "price": 31.99,
+      "description": "Chaqueta Gabardina Suelta para Hombre, Informal, de Color sólido, con Cuello levantado y Cremallera Completa, Manga Larga, Bolsillo, Ligera Chaqueta Invierno",
+      "category": "Ropa de hombre",
+      "image": "https://img.freepik.com/foto-gratis/joven-guapo-abrigo-fuera-calle_1303-20176.jpg?w=360&t=st=1687362854~exp=1687363454~hmac=00e8ed872cee587cd7a47c4bff298b0f6efdb73583a7d0f3f55cb212b9d7adde",
+      "rating": {
+        "rate": 4.8,
+        "count": 120
+      }
+    },
+    {
+      "id": 46,
+      "title": "Anillo de plata",
+      "price": 89.99,
+      "description": "Anillo de plata esterlina con piedra de ónice negra y diseño elegante para hombres.",
+      "category": "Joyería Hombre",
+      "image": "https://img.freepik.com/foto-gratis/primer-plano-hombre-traje-formal-anillo-oro_181624-16982.jpg?w=360&t=st=1687356503~exp=1687357103~hmac=27c3cdd1a3526452a5542cba5946f9e448079efe078086ea7beeea23173705ec",
+      "rating": {
+        "rate": 4.5,
+        "count": 120
+      }
+    },
+    {
+      "id": 47,
+      "title": "Colgante de acero",
+      "price": 29.99,
+      "description": "Colgante de acero inoxidable con dije  y cadena resistente para hombres.",
+      "category": "Joyería Hombre",
+      "image": "https://img.freepik.com/foto-gratis/vista-lateral-hombre-llevando-collar_23-2149439813.jpg?w=360&t=st=1687356390~exp=1687356990~hmac=15002fa588e1d221a596ae4ee8c5683e8f10ab98b6941c01a7471ee7bd644593",
+      "rating": {
+        "rate": 4.2,
+        "count": 90
+      }
+    },
+    {
+      "id": 48,
+      "title": "Pulsera",
+      "price": 9.99,
+      "description": "Pulsera de cuero genuino trenzado con cierre magnético y diseño moderno para hombres.",
+      "category": "Joyería Hombre",
+      "image": "https://img.freepik.com/foto-gratis/retrato-joven-hispano-traje-formal-expresion-seria_181624-43360.jpg?w=360&t=st=1687362946~exp=1687363546~hmac=4d5576d0dae2579aaf463dec0dbe81b2c4284a1698234a1940d7c9f28126e7e3",
+      "rating": {
+        "rate": 4.7,
+        "count": 150
+      }
+    },
+    {
+      "id": 49,
+      "title": "Reloj de acero",
+      "price": 79.99,
+      "description": "Reloj de pulsera de acero inoxidable con cronógrafo y correa ajustable para hombres.",
+      "category": "Joyería Hombre",
+      "image": "https://img.freepik.com/foto-gratis/primer-plano-reloj-mano-bstrap-sobre-superficie-reflectante_181624-58668.jpg?w=360&t=st=1687356002~exp=1687356602~hmac=9384e54c9f4c75bebf5f275093c6ff15e9b91366f93fef55ee0f1da24c2698a1",
+      "rating": {
+        "rate": 4.8,
+        "count": 210
+      }
+    },
+    {
+      "id": 50,
+      "title": "Gemelos de plata",
+      "price": 79.99,
+      "description": "Gemelos de plata esterlina con diseño geométrico elegante para hombres.",
+      "category": "Joyería Hombre",
+      "image": "https://img.freepik.com/foto-gratis/boton-hombres-adornos-dorados_114579-12616.jpg?w=360&t=st=1687363031~exp=1687363631~hmac=2a88c8e6775f4c89e1d10f77eaf3135a8693fe5ea8e62a0a65a6ed8509dec1f4",
+      "rating": {
+        "rate": 4.6,
+        "count": 180
+      }
+    },
+    {
+      "id": 51,
+      "title": "Collar de acero",
+      "price": 49.99,
+      "description": "Collar de acero inoxidable con placa personalizada y cadena ajustable para hombres.",
+      "category": "Joyería Hombre",
+      "image": "https://img.freepik.com/foto-gratis/primer-plano-vertical-hombre-que-llevaba-brazalete-plata-manos-bolsillos_181624-21954.jpg?w=360&t=st=1687356328~exp=1687356928~hmac=ae912a93a621be154ae8eb77b68e8c449ccfe9a4ea04cab7e6f2af1b9fdc884b",
+      "rating": {
+        "rate": 4.4,
+        "count": 120
+      }
+    },
+    {
+      "id": 52,
+      "title": "Pulsera de cuero",
+      "price": 24.99,
+      "description": "Pulsera de cuero genuino con cuentas de piedra volcánica y diseño rústico para hombres.",
+      "category": "Joyería Hombre",
+      "image": "https://img.freepik.com/foto-gratis/retrato-moda-guapo-elegante-hipster-empresario-modelo-vestido-elegante-traje-marron-gafas-sol_158538-11335.jpg?w=360&t=st=1687363289~exp=1687363889~hmac=4371a2ced71205a3deff7a6af8561510e9ee0f36198d53591ad7711b681c197d",
+      "rating": {
+        "rate": 4.5,
+        "count": 90
+      }
+    },
+    {
+      "id": 53,
+      "title": "Anillo",
+      "price": 9.99,
+      "description": "Anillo de tungsteno con incrustaciones de madera y acabado pulido para hombres.",
+      "category": "Joyería Hombre",
+      "image": "https://img.freepik.com/foto-gratis/primer-plano-hombre-traje-formal-anillo-oro_181624-17027.jpg?size=626&ext=jpg&uid=R102230305&ga=GA1.1.366339644.1683722572&semt=ais",
+      "rating": {
+        "rate": 4.7,
+        "count": 150
+      }
+    },
+    {
+      "id": 54,
+      "title": "Reloj de cuero",
+      "price": 59.99,
+      "description": "Reloj de pulsera de cuero genuino con esfera de madera y movimiento automático para hombres.",
+      "category": "Joyería Hombre",
+      "image": "https://img.freepik.com/foto-gratis/retrato-moda-joven-empresario-guapo-modelo-hombre-traje-tela-casual-accesorios-manos_158538-9450.jpg?w=360&t=st=1687363446~exp=1687364046~hmac=dba98d36c4b3e5f5fce180c37dc0cbe9efd8ae2df0a6618c196471ecad0b0362",
+      "rating": {
+        "rate": 4.3,
+        "count": 120
+      }
+    },
+    {
+      "id": 55,
+      "title": "Pendientes",
+      "price": 8.99,
+      "description": "Pendientes de acero inoxidable negro y cierre de presión.",
+      "category": "Joyería Hombre",
+      "image": "https://img.freepik.com/foto-gratis/retrato-joven-homosexual-riendo_23-2148163335.jpg?w=360&t=st=1687363618~exp=1687364218~hmac=d529a463baaab4e666810f169bb7a0cd0eb40fda5427a50106aaf20085678dc2",
+      "rating": {
+        "rate": 4.2,
+        "count": 90
+      }
+    },
+    {
+      "id": 56,
+      "title": "Collar de plata",
+      "price": 20.99,
+      "description": "Collar de plata esterlina con colgante de corazón y cadena ajustable para mujeres.",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/primer-plano-mujer-que-llevaba-hermoso-collar-plata-colgante_181624-24692.jpg?w=360&t=st=1687361762~exp=1687362362~hmac=f0ef8007156cdb28d769f98372af7ce3b093128c307fa5605437f003219c4311",
+      "rating": {
+        "rate": 4.5,
+        "count": 150
+      }
+    },
+    {
+      "id": 57,
+      "title": "Anillo de oro blanco",
+      "price": 59.99,
+      "description": "Anillo de oro blanco con diamantes incrustados y diseño elegante para mujeres.",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/hermoso-anillo-compromiso-diamantes_23-2149509239.jpg?w=360&t=st=1687363701~exp=1687364301~hmac=df34dab62b6504422b8b4ecebc8081103fa457c8a03e03eac381f4623e14ce6f",
+      "rating": {
+        "rate": 4.7,
+        "count": 180
+      }
+    },
+    {
+      "id": 58,
+      "title": "Pendientes de perlas",
+      "price": 12.99,
+      "description": "Pendientes de perlas cultivadas en plata esterlina con cierre de presión para mujeres.",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/esteticos-pendientes-dorados-perlas_23-2149846554.jpg?w=360&t=st=1687363776~exp=1687364376~hmac=967297baba213af31354bcb947bfe80767c676e225a4a95227c6852e7d8b9690",
+      "rating": {
+        "rate": 4.9,
+        "count": 200
+      }
+    },
+    {
+      "id": 59,
+      "title": "Pulsera de oro rosa",
+      "price": 29.99,
+      "description": "Pulsera de oro rosa con dijes y cierre de mosquetón para mujeres.",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/primer-plano-vertical-mujer-que-llevaba-pulsera-oro_181624-15771.jpg?w=360&t=st=1687363836~exp=1687364436~hmac=05b0c749be4a7f93fa06e301ad5f3c545e5c2b2be5d6dd6cf49e0acb43062e71",
+      "rating": {
+        "rate": 4.6,
+        "count": 170
+      }
+    },
+    {
+      "id": 60,
+      "title": "Anillo de plata",
+      "price": 49.99,
+      "description": "Anillo de plata esterlina con circonia cúbica brillante y diseño delicado para mujeres.",
+      "category": "Joyería Mujer",
+      "image": "https://cdn.pixabay.com/photo/2016/10/27/22/08/couple-1776647_1280.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 190
+      }
+    },
+    {
+      "id": 61,
+      "title": "Conjunto de bijouterie",
+      "price": 29.99,
+      "description": "Conjunto de anillo, collas y pulsera  colores para noche .",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/cadena-dorada-lujosa-brillante_23-2149635280.jpg?w=360&t=st=1687363890~exp=1687364490~hmac=7153bee3d12d26d9a38ecc525bee63df0c02145a8caf948f6553afa719e59a85",
+      "rating": {
+        "rate": 4.7,
+        "count": 210
+      }
+    },
+    {
+      "id": 62,
+      "title": "Aretes de plata",
+      "price": 39.99,
+      "description": "Aretes de plata esterlina con piedras preciosas y diseño elegante para mujeres.",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/bodegon-pendientes-esteticos_23-2149649122.jpg?w=360&t=st=1687353652~exp=1687354252~hmac=4f1a8f86ced084049f13255eb8e5fed58e3603b98f4de870a20c272b00014b0f",
+      "rating": {
+        "rate": 4.5,
+        "count": 150
+      }
+    },
+    {
+      "id": 63,
+      "title": "Collar de plata",
+      "price": 129.99,
+      "description": "Collar de plata esterlina con diseño de eslabones para mujeres.",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/primer-plano-mujer-que-llevaba-hermoso-collar-plata-colgante_181624-24692.jpg?w=360&t=st=1687353504~exp=1687354104~hmac=7878d4cf27485abd316a34da13259f0c36f0009f323385111bc4bc4823195267",
+      "rating": {
+        "rate": 4.6,
+        "count": 170
+      }
+    },
+    {
+      "id": 64,
+      "title": "Collar de oro blanco",
+      "price": 89.99,
+      "description": "Collar de oro blanco con piedras incrustadas y perlas cultivadas para mujeres.",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/collar-hermoso-lujo-cuello-joyeria_1339-7952.jpg?w=360&t=st=1687363983~exp=1687364583~hmac=16a5cc14dcadfe15dae1d1ef20e2f8e79725d8d6f8da171ac47577d38438ee75",
+      "rating": {
+        "rate": 4.8,
+        "count": 200
+      }
+    },
+    {
+      "id": 65,
+      "title": "Anillo de plata",
+      "price": 49.99,
+      "description": "Anillo de plata esterlina con zafiro azul y circonias cúbicas para mujeres.",
+      "category": "Joyería Mujer",
+      "image": "https://img.freepik.com/foto-gratis/disparo-vertical-hermoso-anillo-preciosa-gema-azul-sobre-superficie-azul_181624-58073.jpg?w=360&t=st=1687364090~exp=1687364690~hmac=9ed73df5eaf1131f614ccbabcdbb8e692d8c01f5ee00eab1f160b42f8adc2de5",
+      "rating": {
+        "rate": 4.7,
+        "count": 210
+      }
+    },
+    {
+      "title": "",
+      "price": "8555",
+      "description": "",
+      "category": "",
+      "image": "",
+      "id": 67
+    }
+  ]
+}

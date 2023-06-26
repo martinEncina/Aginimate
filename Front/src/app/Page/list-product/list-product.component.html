@@ -1,0 +1,17 @@
+<ul class="m-auto">
+    <li *ngFor="let producto of arrayProducts">
+      <!-- {{console.log(producto)}} -->
+    <a routerLink="/detalles/{{producto.id}}">
+      <div class="card" style="width: 13rem;">
+        <img src="{{producto.image}}" alt="{{producto.title}}" class="card-img-top">
+         <span class="">{{producto.title}}</span>
+        <div class=" d-flex justify-content-between"> 
+          <span>XXX(10)</span>           
+          <span class="">{{producto.price}} €</span>                  
+        </div>
+      </div>
+    </a>         
+    </li>
+  </ul>
+
+  

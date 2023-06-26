@@ -1,0 +1,10 @@
+a{
+    color: #d56e00;
+    text-decoration: none;
+}
+p{
+    color: #d56e00;
+}
+.border-bottom{
+    border-color: grey !important;
+}

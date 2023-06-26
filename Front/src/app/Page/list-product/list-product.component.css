@@ -1,0 +1,28 @@
+ul{
+  width: 90vw;
+  min-height: 90vh;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 10px;
+  list-style: none;
+  
+}    
+
+img{
+    width: 100%;
+    object-fit: cover;
+    height: 17rem;
+
+  }
+
+.card{
+  background-color: #fffde7;
+  padding: 1vh;
+  
+}
+
+a {
+  text-decoration: none;
+}

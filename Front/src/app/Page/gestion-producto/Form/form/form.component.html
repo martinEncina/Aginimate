@@ -1,0 +1,40 @@
+
+<form [formGroup]="productForm" (ngSubmit)="onSubmit()">
+    <div class="col-sm-3 m-auto p-3 ">  
+      <h3 class="Color">Agrega tu nuevo producto</h3>
+      <input class="form-control form-control-sm mt-4 mb-1" placeholder="Titulo" formControlName="title">
+      <input class="form-control form-control-sm mb-1"   placeholder="Precio" formControlName="price">
+      <select class="form-select form-select-sm mb-1 custom-select" formControlName="category">
+        <option value="" selected disabled hidden>Categorias</option>
+        <option value="Ropa de hombre">Ropa de hombre</option>
+        <option value="Joyería hombre">Joyería hombre</option>
+        <option value="Ropa de mujer">Ropa de mujer</option>
+        <option value="Joyería mujer">Joyería mujer</option>
+      </select>
+      <input class="form-control form-control-sm mb-1"  placeholder="Imagen/URL" formControlName="image">                
+      <textarea class="form-control mb-3" id="exampleFormControlTextarea1" rows="2" placeholder="Descripcion" formControlName="description"></textarea>        
+      <button class="custom-button">Agregar</button>
+    </div>
+  </form>
+
+  <div *ngIf="newProduct">
+    <div class="container-fluid Vh d-flex align-items-center">
+      <div class="card m-auto allCard" style="min-width: 700px">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img src="{{newProduct?.image}}" class="img-fluid rounded-start" alt="..." *ngIf="newProduct.image !== ''">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body" style="height: 65%;">
+              <h3 class="card-title" *ngIf="newProduct.title !== ''">{{newProduct?.title}}</h3>            
+              <span class="card-text" *ngIf="newProduct.description !== ''">{{newProduct?.description}}</span>
+              <span class="card-text" *ngIf="newProduct.category !== ''">{{newProduct?.category}}</span>
+            </div>
+            <span class="m-3" *ngIf="newProduct.price !== ''">{{newProduct?.price}}€</span> 
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
